@@ -10,8 +10,6 @@ https://assetstore.unity.com/packages/2d/textures-materials/sky/10-skyboxes-pack
 
 (Links to assets used)
 
-(Sam's student number - 100406356)
-
 The main gameplay mechanic revolves around grabbing colour from the enviroment and using it to your advantage.
 
 Controls:
